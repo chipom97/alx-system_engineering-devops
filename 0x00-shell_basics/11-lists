@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -la .
-ls -la ..
-cd /boot
-ls -la
+find / -type f
