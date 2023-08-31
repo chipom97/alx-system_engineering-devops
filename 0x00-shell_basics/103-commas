@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a -m -p -I . -I .. | LC_COLLATE=C sort -df
