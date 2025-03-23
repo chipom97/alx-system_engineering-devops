@@ -1,0 +1,25 @@
+total 56
+drwxr-xr-x 2 root root 4096 Mar 23 21:45 .
+drwxr-xr-x 6 root root 4096 Mar 21 23:27 ..
+-rwxr--r-- 1 root root   32 Mar 21 23:31 0-hello_world
+-rwxr--r-- 1 root root   28 Mar 21 23:44 1-confused_smiley
+-rwxr--r-- 1 root root    0 Mar 21 23:29 10-no_more_js
+-rwxr--r-- 1 root root    0 Mar 21 23:29 11-directories
+-rwxr--r-- 1 root root    0 Mar 21 23:29 12-newest_files
+-rwxr--r-- 1 root root    0 Mar 21 23:29 13-unique
+-rwxr--r-- 1 root root    0 Mar 21 23:29 14-findthatword
+-rwxr--r-- 1 root root    0 Mar 21 23:29 15-countthatword
+-rwxr--r-- 1 root root    0 Mar 21 23:29 16-whatsnext
+-rwxr--r-- 1 root root   28 Mar 21 23:48 2-hellofile
+-rwxr--r-- 1 root root    0 Mar 21 23:29 3-twofiles
+-rwxr--r-- 1 root root   33 Mar 21 23:50 4-lastlines
+-rwxr--r-- 1 root root   33 Mar 22 00:16 5-firstlines
+-rwxr--r-- 1 root root   36 Mar 22 00:25 6-third_line
+-rwxr--r-- 1 root root   99 Mar 23 21:40 7-file
+-rwxr--r-- 1 root root   36 Mar 23 21:45 8-cwd_state
+-rwxr--r-- 1 root root    0 Mar 21 23:29 9-duplicate_last_line
+-rw-r--r-- 1 root root   24 Mar 21 23:27 README.md
+-rw-r--r-- 1 root root   12 Mar 22 00:51 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  295 Mar 23 21:43 file
+-rw-r--r-- 1 root root 1489 Mar 22 00:18 iacta
+-rw-r--r-- 1 root root    0 Mar 23 21:45 ls_cwd_content
